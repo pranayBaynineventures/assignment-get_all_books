@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "authors": ["F. Scott Fitzgerald"],
+      "coverImage": "https://covers.openlibrary.org/b/id/123456-M.jpg",
+      "publishedYear": 1925,
+      "description": "A novel set in the Jazz Age about Jay Gatsby's pursuit of Daisy Buchanan.",
+      "subjects": ["Classic", "Novel"]
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "authors": ["Harper Lee"],
+      "coverImage": "https://covers.openlibrary.org/b/id/234567-M.jpg",
+      "publishedYear": 1960,
+      "description": "A story of racial injustice and childhood innocence.",
+      "subjects": ["Classic", "Drama"]
+    }
+  ]
+}
