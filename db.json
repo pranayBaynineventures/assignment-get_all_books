@@ -4,7 +4,7 @@
       "id": "1",
       "title": "The Great Gatsby",
       "authors": ["F. Scott Fitzgerald"],
-      "coverImage": "https://covers.openlibrary.org/b/id/123456-M.jpg",
+      "coverImage": "https://covers.openlibrary.org/b/id/7352160-L.jpg",
       "publishedYear": 1925,
       "description": "A novel set in the Jazz Age about Jay Gatsby's pursuit of Daisy Buchanan.",
       "subjects": ["Classic", "Novel"]
@@ -13,10 +13,442 @@
       "id": "2",
       "title": "To Kill a Mockingbird",
       "authors": ["Harper Lee"],
-      "coverImage": "https://covers.openlibrary.org/b/id/234567-M.jpg",
+      "coverImage": "https://covers.openlibrary.org/b/id/8228691-L.jpg",
       "publishedYear": 1960,
       "description": "A story of racial injustice and childhood innocence.",
       "subjects": ["Classic", "Drama"]
-    }
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "authors": ["George Orwell"],
+      "coverImage": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+      "publishedYear": 1949,
+      "description": "A dystopian novel about totalitarianism and surveillance.",
+      "subjects": ["Dystopian", "Political Fiction"]
+    },
+    {
+      "id": "4",
+      "title": "Pride and Prejudice",
+      "authors": ["Jane Austen"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8091016-L.jpg",
+      "publishedYear": 1813,
+      "description": "A romantic novel that critiques the British landed gentry at the end of the 18th century.",
+      "subjects": ["Romance", "Classic"]
+    },
+    {
+      "id": "5",
+      "title": "Moby Dick",
+      "authors": ["Herman Melville"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8100925-L.jpg",
+      "publishedYear": 1851,
+      "description": "The narrative of Captain Ahab’s obsessive quest to kill the white whale, Moby Dick.",
+      "subjects": ["Adventure", "Classic"]
+    },
+    {
+      "id": "6",
+      "title": "The Catcher in the Rye",
+      "authors": ["J.D. Salinger"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8231856-L.jpg",
+      "publishedYear": 1951,
+      "description": "A story about teenage alienation and rebellion.",
+      "subjects": ["Classic", "Coming-of-age"]
+    },
+    {
+      "id": "7",
+      "title": "The Hobbit",
+      "authors": ["J.R.R. Tolkien"],
+      "coverImage": "https://covers.openlibrary.org/b/id/6979861-L.jpg",
+      "publishedYear": 1937,
+      "description": "Bilbo Baggins joins a quest to reclaim a treasure guarded by the dragon Smaug.",
+      "subjects": ["Fantasy", "Adventure"]
+    },
+    {
+      "id": "8",
+      "title": "The Lord of the Rings",
+      "authors": ["J.R.R. Tolkien"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8059256-L.jpg",
+      "publishedYear": 1954,
+      "description": "An epic fantasy saga about the quest to destroy the One Ring.",
+      "subjects": ["Fantasy", "Epic"]
+    },
+    {
+      "id": "9",
+      "title": "Brave New World",
+      "authors": ["Aldous Huxley"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8775114-L.jpg",
+      "publishedYear": 1932,
+      "description": "A futuristic novel exploring a technologically advanced but emotionally shallow society.",
+      "subjects": ["Dystopian", "Science Fiction"]
+    },
+    {
+      "id": "10",
+      "title": "Crime and Punishment",
+      "authors": ["Fyodor Dostoevsky"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8235116-L.jpg",
+      "publishedYear": 1866,
+      "description": "The psychological torment of a man who commits murder.",
+      "subjects": ["Classic", "Philosophical Fiction"]
+    },
+    {
+      "id": "11",
+      "title": "The Brothers Karamazov",
+      "authors": ["Fyodor Dostoevsky"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8776409-L.jpg",
+      "publishedYear": 1880,
+      "description": "Explores deep philosophical and theological themes through a family saga.",
+      "subjects": ["Classic", "Philosophy"]
+    },
+    {
+      "id": "12",
+      "title": "Jane Eyre",
+      "authors": ["Charlotte Brontë"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8226191-L.jpg",
+      "publishedYear": 1847,
+      "description": "A novel about morality, religion, and feminism.",
+      "subjects": ["Classic", "Romance"]
+    },
+    {
+      "id": "13",
+      "title": "Wuthering Heights",
+      "authors": ["Emily Brontë"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8231855-L.jpg",
+      "publishedYear": 1847,
+      "description": "A gothic tale of love and revenge on the Yorkshire moors.",
+      "subjects": ["Classic", "Gothic"]
+    },
+    {
+      "id": "14",
+      "title": "Frankenstein",
+      "authors": ["Mary Shelley"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8311992-L.jpg",
+      "publishedYear": 1818,
+      "description": "The tale of Victor Frankenstein and his monstrous creation.",
+      "subjects": ["Classic", "Science Fiction"]
+    },
+    {
+      "id": "15",
+      "title": "Dracula",
+      "authors": ["Bram Stoker"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8235087-L.jpg",
+      "publishedYear": 1897,
+      "description": "The classic vampire story that introduced Count Dracula.",
+      "subjects": ["Horror", "Classic"]
+    },
+    {
+      "id": "16",
+      "title": "The Odyssey",
+      "authors": ["Homer"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8235549-L.jpg",
+      "publishedYear": -800,
+      "description": "The epic journey of Odysseus returning home after the Trojan War.",
+      "subjects": ["Epic", "Poetry"]
+    },
+    {
+      "id": "17",
+      "title": "The Iliad",
+      "authors": ["Homer"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8375045-L.jpg",
+      "publishedYear": -750,
+      "description": "An epic poem about the Trojan War and the wrath of Achilles.",
+      "subjects": ["Epic", "Poetry"]
+    },
+    {
+      "id": "18",
+      "title": "The Divine Comedy",
+      "authors": ["Dante Alighieri"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8231995-L.jpg",
+      "publishedYear": 1320,
+      "description": "A journey through Hell, Purgatory, and Paradise.",
+      "subjects": ["Epic", "Poetry"]
+    },
+    {
+      "id": "19",
+      "title": "War and Peace",
+      "authors": ["Leo Tolstoy"],
+      "coverImage": "https://covers.openlibrary.org/b/id/7222276-L.jpg",
+      "publishedYear": 1869,
+      "description": "A novel that intertwines the lives of families during the Napoleonic Wars.",
+      "subjects": ["Classic", "Historical Fiction"]
+    },
+    {
+      "id": "20",
+      "title": "Anna Karenina",
+      "authors": ["Leo Tolstoy"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8231852-L.jpg",
+      "publishedYear": 1877,
+      "description": "A tragic story of love and society in Imperial Russia.",
+      "subjects": ["Classic", "Romance"]
+    },
+    {
+      "id": "21",
+      "title": "Don Quixote",
+      "authors": ["Miguel de Cervantes"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8235081-L.jpg",
+      "publishedYear": 1605,
+      "description": "The adventures of a nobleman who believes he is a knight.",
+      "subjects": ["Classic", "Satire"]
+    },
+    {
+      "id": "22",
+      "title": "Les Misérables",
+      "authors": ["Victor Hugo"],
+      "coverImage": "https://covers.openlibrary.org/b/id/8776350-L.jpg",
+      "publishedYear": 1862,
+      "description": "A sweeping story of redemption and justice in 19th century France.",
+      "subjects": ["Classic", "Historical Fiction"]
+    },
+    {
+    "id": "23",
+    "title": "The Iliad",
+    "authors": ["Homer"],
+    "coverImage": "https://covers.openlibrary.org/b/id/6979862-M.jpg",
+    "publishedYear": -750,
+    "description": "The epic poem recounting the events of the Trojan War.",
+    "subjects": ["Epic", "Mythology", "Classic"]
+  },
+  {
+    "id": "24",
+    "title": "The Grapes of Wrath",
+    "authors": ["John Steinbeck"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8228691-M.jpg",
+    "publishedYear": 1939,
+    "description": "A powerful story of migrant farmers during the Great Depression.",
+    "subjects": ["Classic", "History", "Drama"]
+  },
+  {
+    "id": "25",
+    "title": "Fahrenheit 451",
+    "authors": ["Ray Bradbury"],
+    "coverImage": "https://covers.openlibrary.org/b/id/7984916-M.jpg",
+    "publishedYear": 1953,
+    "description": "In a future society, books are outlawed and burned by firemen.",
+    "subjects": ["Dystopia", "Science Fiction", "Classic"]
+  },
+  {
+    "id": "26",
+    "title": "The Old Man and the Sea",
+    "authors": ["Ernest Hemingway"],
+    "coverImage": "https://covers.openlibrary.org/b/id/7222161-M.jpg",
+    "publishedYear": 1952,
+    "description": "The story of Santiago, an aging fisherman’s struggle with a giant marlin.",
+    "subjects": ["Classic", "Sea", "Drama"]
+  },
+  {
+    "id": "27",
+    "title": "A Tale of Two Cities",
+    "authors": ["Charles Dickens"],
+    "coverImage": "https://covers.openlibrary.org/b/id/7222243-M.jpg",
+    "publishedYear": 1859,
+    "description": "A historical novel set in London and Paris during the French Revolution.",
+    "subjects": ["Classic", "History", "Drama"]
+  },
+  {
+    "id": "28",
+    "title": "Great Expectations",
+    "authors": ["Charles Dickens"],
+    "coverImage": "https://covers.openlibrary.org/b/id/7222279-M.jpg",
+    "publishedYear": 1861,
+    "description": "The growth and personal development of Pip, an orphan in England.",
+    "subjects": ["Classic", "Drama", "Society"]
+  },
+  {
+    "id": "29",
+    "title": "To the Lighthouse",
+    "authors": ["Virginia Woolf"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8232011-M.jpg",
+    "publishedYear": 1927,
+    "description": "An exploration of perception and time set in the Ramsay family home.",
+    "subjects": ["Classic", "Modernism", "Drama"]
+  },
+  {
+    "id": "30",
+    "title": "The Sound and the Fury",
+    "authors": ["William Faulkner"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8231806-M.jpg",
+    "publishedYear": 1929,
+    "description": "A Southern family’s decline told through multiple perspectives.",
+    "subjects": ["Classic", "Drama", "Modernism"]
+  },
+  {
+    "id": "31",
+    "title": "One Hundred Years of Solitude",
+    "authors": ["Gabriel García Márquez"],
+    "coverImage": "https://covers.openlibrary.org/b/id/9251995-M.jpg",
+    "publishedYear": 1967,
+    "description": "The multi-generational story of the Buendía family in Macondo.",
+    "subjects": ["Magical Realism", "Classic", "Latin American"]
+  },
+  {
+    "id": "32",
+    "title": "Love in the Time of Cholera",
+    "authors": ["Gabriel García Márquez"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8231732-M.jpg",
+    "publishedYear": 1985,
+    "description": "A romantic saga of unrequited love spanning decades.",
+    "subjects": ["Romance", "Magical Realism", "Classic"]
+  },
+  {
+    "id": "33",
+    "title": "The Stranger",
+    "authors": ["Albert Camus"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8231920-M.jpg",
+    "publishedYear": 1942,
+    "description": "A novel exploring absurdism through the indifferent protagonist Meursault.",
+    "subjects": ["Philosophy", "Classic", "Existentialism"]
+  },
+  {
+    "id": "34",
+    "title": "The Trial",
+    "authors": ["Franz Kafka"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8231944-M.jpg",
+    "publishedYear": 1925,
+    "description": "Josef K. is arrested and prosecuted by a remote authority.",
+    "subjects": ["Philosophy", "Classic", "Existentialism"]
+  },
+  {
+    "id": "35",
+    "title": "Invisible Man",
+    "authors": ["Ralph Ellison"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8231890-M.jpg",
+    "publishedYear": 1952,
+    "description": "A novel about African-American identity and social invisibility.",
+    "subjects": ["Classic", "Society", "Identity"]
+  },
+  {
+    "id": "36",
+    "title": "Beloved",
+    "authors": ["Toni Morrison"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8231702-M.jpg",
+    "publishedYear": 1987,
+    "description": "A haunting story about slavery and its lingering effects.",
+    "subjects": ["Classic", "History", "Drama"]
+  },
+  {
+    "id": "37",
+    "title": "Song of Solomon",
+    "authors": ["Toni Morrison"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8231724-M.jpg",
+    "publishedYear": 1977,
+    "description": "A novel exploring African-American culture and identity.",
+    "subjects": ["Classic", "Society", "Family"]
+  },
+  {
+    "id": "38",
+    "title": "Things Fall Apart",
+    "authors": ["Chinua Achebe"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8231763-M.jpg",
+    "publishedYear": 1958,
+    "description": "The impact of colonialism on Igbo society in Nigeria.",
+    "subjects": ["Classic", "History", "Africa"]
+  },
+  {
+    "id": "39",
+    "title": "The Kite Runner",
+    "authors": ["Khaled Hosseini"],
+    "coverImage": "https://covers.openlibrary.org/b/id/240726-M.jpg",
+    "publishedYear": 2003,
+    "description": "A story of friendship, betrayal, and redemption in Afghanistan.",
+    "subjects": ["Drama", "History", "Family"]
+  },
+  {
+    "id": "40",
+    "title": "A Thousand Splendid Suns",
+    "authors": ["Khaled Hosseini"],
+    "coverImage": "https://covers.openlibrary.org/b/id/240727-M.jpg",
+    "publishedYear": 2007,
+    "description": "A tale of two women’s struggle in war-torn Afghanistan.",
+    "subjects": ["Drama", "History", "Family"]
+  },
+  {
+    "id": "41",
+    "title": "The Alchemist",
+    "authors": ["Paulo Coelho"],
+    "coverImage": "https://covers.openlibrary.org/b/id/240725-M.jpg",
+    "publishedYear": 1988,
+    "description": "A shepherd’s journey to realize his personal legend.",
+    "subjects": ["Philosophy", "Adventure", "Spiritual"]
+  },
+  {
+    "id": "42",
+    "title": "Norwegian Wood",
+    "authors": ["Haruki Murakami"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8231711-M.jpg",
+    "publishedYear": 1987,
+    "description": "A nostalgic story of love and loss in Tokyo.",
+    "subjects": ["Romance", "Drama", "Japanese Literature"]
+  },
+  {
+    "id": "43",
+    "title": "Kafka on the Shore",
+    "authors": ["Haruki Murakami"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8231710-M.jpg",
+    "publishedYear": 2002,
+    "description": "A surreal coming-of-age novel with mysterious characters.",
+    "subjects": ["Magical Realism", "Fantasy", "Japanese Literature"]
+  },
+  {
+    "id": "44",
+    "title": "The Wind-Up Bird Chronicle",
+    "authors": ["Haruki Murakami"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8231706-M.jpg",
+    "publishedYear": 1994,
+    "description": "A mysterious exploration of fate and disappearance.",
+    "subjects": ["Drama", "Magical Realism", "Japanese Literature"]
+  },
+  {
+    "id": "45",
+    "title": "The Book Thief",
+    "authors": ["Markus Zusak"],
+    "coverImage": "https://covers.openlibrary.org/b/id/240728-M.jpg",
+    "publishedYear": 2005,
+    "description": "A young girl’s love for books during Nazi Germany.",
+    "subjects": ["History", "Drama", "Young Adult"]
+  },
+  {
+    "id": "46",
+    "title": "Life of Pi",
+    "authors": ["Yann Martel"],
+    "coverImage": "https://covers.openlibrary.org/b/id/240729-M.jpg",
+    "publishedYear": 2001,
+    "description": "A boy stranded at sea with a Bengal tiger.",
+    "subjects": ["Adventure", "Philosophy", "Survival"]
+  },
+  {
+    "id": "47",
+    "title": "The Road",
+    "authors": ["Cormac McCarthy"],
+    "coverImage": "https://covers.openlibrary.org/b/id/240730-M.jpg",
+    "publishedYear": 2006,
+    "description": "A post-apocalyptic journey of a father and son.",
+    "subjects": ["Dystopia", "Drama", "Survival"]
+  },
+  {
+    "id": "48",
+    "title": "All the Light We Cannot See",
+    "authors": ["Anthony Doerr"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8225691-M.jpg",
+    "publishedYear": 2014,
+    "description": "The lives of a blind French girl and a German boy during WWII.",
+    "subjects": ["History", "Drama", "War"]
+  },
+  {
+    "id": "49",
+    "title": "The Goldfinch",
+    "authors": ["Donna Tartt"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8231691-M.jpg",
+    "publishedYear": 2013,
+    "description": "A coming-of-age story centered around a stolen painting.",
+    "subjects": ["Drama", "Mystery", "Art"]
+  },
+  {
+    "id": "50",
+    "title": "Gone Girl",
+    "authors": ["Gillian Flynn"],
+    "coverImage": "https://covers.openlibrary.org/b/id/8231701-M.jpg",
+    "publishedYear": 2012,
+    "description": "A psychological thriller about a missing wife and media frenzy.",
+    "subjects": ["Thriller", "Mystery", "Drama"]
+  }
   ]
 }
